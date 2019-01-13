@@ -1,5 +1,5 @@
 ---
-layout: false
+layout: post
 ---
 
 # Testing out some routes
